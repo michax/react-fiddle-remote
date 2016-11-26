@@ -10,6 +10,20 @@ Supports:
 
 Easilly swap versions by changing CDN links in index.html.
 
+You need to use http server to test your code. Recommended options:
+
+Python 2.7
+```
+python -m SimpleHTTPServer
+```
+
+BrowserSync 
+```
+browser-sync start
+```
+
+Or any other server solutions out there.
+
 # Live
 
 https://michax.github.io/react-fiddle-remote/
