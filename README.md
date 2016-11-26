@@ -10,7 +10,15 @@ Supports:
 
 Easilly swap versions by changing CDN links in index.html.
 
+# Live
+
+https://michax.github.io/react-fiddle-remote/
+
+Fork it and use github pages to show others what you fiddled.
+
+ie. https://{your-username}.github.io/react-fiddle-remote/
+
 # Comments
 
 index.html is purposefully as simple as possible.
-Tested on latest Chrome, Safari. 
+Tested on latest Chrome, Safari.
