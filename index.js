@@ -24,11 +24,11 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <h1>React Fiddle Remote</h1>
+                <h1>React Fiddle <span>Remote</span></h1>
                 <span>Counter: {this.state.count}</span>
             </div>
         );
     }
 }
 
-ReactDOM.render(<App/>, document.querySelector('#container'));
+ReactDOM.render(<App/>, document.querySelector('.container'));
