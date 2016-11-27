@@ -19,7 +19,7 @@ python -m SimpleHTTPServer
 
 BrowserSync 
 ```
-browser-sync start
+browser-sync start -s -f '*'
 ```
 
 Or any other server solutions out there.
